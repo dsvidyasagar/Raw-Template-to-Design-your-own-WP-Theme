@@ -1,0 +1,16 @@
+/*
+Theme Name: Dattaraj Theme
+Author: Dattaraj Vidyasagar
+Author URI: http://dsvidyasagar.com
+Version: 1.0
+License: GPL-3.0 license
+License URI: http://dsvidyasagar.com
+*/
+
+* {
+  box-sizing: border-box;
+}
+body {
+    background-color: #000;
+    font-family: Times New Roman, Georgia, Arial;
+}
